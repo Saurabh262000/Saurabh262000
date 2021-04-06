@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saurabh262000
+- 👋 Hi, I’m Saurabh Suman
 - 👀 I’m interested in MachineLearning and DeepLearning
 - 🌱 I’m currently learning GANs
 - 💞️ I’m looking to collaborate on any project related to AI/ML/DL
